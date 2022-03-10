@@ -32,7 +32,10 @@ void areaDelCirculo(void){
  mostrarArea(area);
  return;
 }
+RamaAreaCirculo
 
+
+int main()
 /*
 void areaDelCuadrado(void){
  float lado, area = 0;
