@@ -51,7 +51,7 @@ void areaDelRectangulo(void){
  mostrarArea(area);
  return;
 }
-
+*/
 void areaDelTriangulo(void){
  float base, altura, area = 0;
  cout<<"Ingresa la base: "; cin>>base;
