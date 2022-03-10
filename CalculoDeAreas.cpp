@@ -32,6 +32,10 @@ void areaDelCirculo(void){
  mostrarArea(area);
  return;
 }
+RamaAreaCirculo
+
+
+int main()
 /*
 void areaDelCuadrado(void){
  float lado, area = 0;
@@ -40,6 +44,7 @@ void areaDelCuadrado(void){
  mostrarArea(area);
  return;
 }
+*/
 
 void areaDelRectangulo(void){
  float base, altura, area = 0;
@@ -49,7 +54,7 @@ void areaDelRectangulo(void){
  mostrarArea(area);
  return;
 }
-
+*/
 void areaDelTriangulo(void){
  float base, altura, area = 0;
  cout<<"Ingresa la base: "; cin>>base;
@@ -58,4 +63,4 @@ void areaDelTriangulo(void){
  mostrarArea(area);
  return;
 }
-*/
+
