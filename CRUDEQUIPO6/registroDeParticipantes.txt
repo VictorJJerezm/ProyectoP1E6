@@ -1,0 +1,5 @@
+1              EMANUEL        56789203       USAC           LOTE-12        
+2              RENE           12345678       UMG            LOTE-2         
+3              VICTORJ        12345678       UMG            LOTE-3         
+4              VICTORG        12345678       UMG            LOTE-4         
+5              BRYAN          12345678       UMG            LOTE-5         
