@@ -31,3 +31,19 @@
 	<conio.h>
 	<iomanip>
 
+1647879551 source:c:\users\saul_\proyectos\proyecto final\proyectoe6\colaborador\crudequipo6\main.cpp
+	<iostream>
+	"persona.h"
+
+1647879551 c:\users\saul_\proyectos\proyecto final\proyectoe6\colaborador\crudequipo6\persona.h
+	<iostream>
+
+1647879551 source:c:\users\saul_\proyectos\proyecto final\proyectoe6\colaborador\crudequipo6\src\persona.cpp
+	<iostream>
+	"persona.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
