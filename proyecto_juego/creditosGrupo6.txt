@@ -1,10 +1,10 @@
 Equipo de Desarrollo:
    Equipo -----> G1
-   Integrante 1:  Victor Jerez - Portada
-   Integrante 2:   - Premios
+   Integrante 1:  VictorJ - Portada
+   Integrante 2:  Salvador - Premios
    Integrante 3:  Carlos Hernandez - Caracteres
-   Integrante 4:  Juan Ejemplo - Mensaje Final
-   Integrante 5:  Bryan Ariana - Creditos
+   Integrante 4:  VictorG - Mensaje Final
+   Integrante 5:  Bryan  - Creditos
 
 
 
