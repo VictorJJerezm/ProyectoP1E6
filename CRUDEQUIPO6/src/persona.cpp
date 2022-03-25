@@ -23,7 +23,7 @@ void persona::menu()
 	system("cls");
 
 	cout<<"\t\t\t----------------------------------------"<<endl;
-	cout<<"\t\t\t |   SISTEMA GESTION PERSONAS GRUPO 6  |"<<endl;
+	cout<<"\t\t\t |   SISTEMA GESTION PERSONAS - GRUPO 6  |"<<endl;
 	cout<<"\t\t\t----------------------------------------"<<endl;
 	cout<<"\t\t\t 1. Ingreso Personas"<<endl;
 	cout<<"\t\t\t 2. Despliegue Personas"<<endl;
