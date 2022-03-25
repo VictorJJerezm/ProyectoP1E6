@@ -70,29 +70,29 @@
 	<iostream>
 	<fstream>
 
-1648222438 source:c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\main.cpp
+1648224066 source:c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\main.cpp
 	<iostream>
 	"player.h"
 	"mapcell.h"
 	"gamemap.h"
 
-1648221385 c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\include\player.h
+1648224066 c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\include\player.h
 
-1648221385 c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\include\mapcell.h
+1648224066 c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\include\mapcell.h
 
-1648221385 c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\include\gamemap.h
+1648224066 c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\include\gamemap.h
 	"mapcell.h"
 
-1648221385 source:c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\src\gamemap.cpp
+1648224066 source:c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\src\gamemap.cpp
 	"gamemap.h"
 	<iostream>
 	<fstream>
 
-1648221385 source:c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\src\mapcell.cpp
+1648224066 source:c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\src\mapcell.cpp
 	"mapcell.h"
 	<iostream>
 
-1648221385 source:c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\src\player.cpp
+1648224066 source:c:\users\vaio\proyectos\proyectofinal\estudiante\proyectop1e6\proyecto_juego\src\player.cpp
 	"player.h"
 	<iostream>
 	<fstream>
