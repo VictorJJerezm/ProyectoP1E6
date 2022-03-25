@@ -1,5 +1,5 @@
 Equipo de Desarrollo:
-   Equipo -----> G1
+   Equipo -----> G6
    Integrante 1:  VictorJ - Portada
    Integrante 2:  Salvador - Premios
    Integrante 3:  Carlos Hernandez - Caracteres
