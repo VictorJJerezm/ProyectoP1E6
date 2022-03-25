@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1647616446 source:c:\users\macho\programacion\proyectofinal\proyectop1e6\crudequipo6\main.cpp
+	<iostream>
+	"persona.h"
+
+1647616867 c:\users\macho\programacion\proyectofinal\proyectop1e6\crudequipo6\persona.h
+	<iostream>
+
+1647620621 source:c:\users\macho\programacion\proyectofinal\proyectop1e6\crudequipo6\src\persona.cpp
+	<iostream>
+	"persona.h"
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
